@@ -1,0 +1,9 @@
+name = "json-formatter"
+main = "src/index.ts"
+compatibility_date = "2024-09-23"
+
+[placement]
+mode = "smart"
+
+# Deploy: cd json-formatter && npx wrangler deploy
+# Subdomain: https://json-formatter.<your-subdomain>.workers.dev
